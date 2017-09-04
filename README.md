@@ -1,2 +1,2 @@
 # summerassignment1
-This is the answer to problem 2 of my summer assignment
+The summer problem asked to create a Letter Frequency Analyzer. This (roughly) estimates the frequency of each letter in a txt file it is fed.
